@@ -9,16 +9,19 @@ I'm **Kailash Gangai** a passionate Web Developer based in Nepal. Welcome to my 
       - 🌐 Exploring API development and integration for data exchange.  
 
 🚀 I'm constantly learning and improving my skills in   
-      -Frontend Technologies   
-            * Html5 and css3  
-            * Bootstrap and Tailwind   
-            *javascript and jQuery
-            * Vuejs   
-          - Backend Technologies   
-            * PHP  
-            * Laravel Framework  
-            * API development  
-💡 I'm always open to collaboration and new opportunities.  
+    ## Frontend Technologies
+
+            - HTML5 and CSS3
+            - Bootstrap and Tailwind CSS
+            - JavaScript and jQuery
+            - Vue.js
+
+## Backend Technologies
+
+      - PHP
+      - Laravel Framework
+      - API development 
+      💡 I'm always open to collaboration and new opportunities.  
 
 ## 📫 Get in touch
 - LinkedIn: [Kaialash Gangai](https://www.linkedin.com/in/kailash-gangai-51382a177/)
