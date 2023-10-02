@@ -14,13 +14,14 @@ I'm **Kailash Gangai** a passionate Web Developer based in Nepal. Welcome to my 
             - HTML5 and CSS3
             - Bootstrap and Tailwind CSS
             - JavaScript and jQuery
-            - Vue.js
+            - Vuejs
 
 ## Backend Technologies
 
       - PHP
       - Laravel Framework
       - API development 
+      - CI/CD pipeline
       💡 I'm always open to collaboration and new opportunities.  
 
 ## 📫 Get in touch
