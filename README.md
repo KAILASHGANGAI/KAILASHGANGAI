@@ -34,8 +34,7 @@ I'm **Kailash Gangai** a passionate Web Developer based in Nepal. Welcome to my 
 Here are a few projects I'm proud of:
 
 - [Project 1 Myfictions a Blog site](https://www.myfictions.com/): it is a simple Bloging website build in core PHP.  
-- Remaining Projects are Here Only.
-
+https://gyannepali.com/
 ## 🌟 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KAILASHGANGAI&show_icons=true)
