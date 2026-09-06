@@ -1,46 +1,37 @@
-# Hello, World! 👋
+# Hi, I'm Kailash Gangai 👋
 
-I'm **Kailash Gangai** a passionate Web Developer based in Nepal. Welcome to my GitHub profile!
+### 🚀 Full-Stack & Cross-Platform Developer | Nepal 🇳🇵
 
-🌱 I'm currently working on   
-      I'm currently immersed in the world of PHP and Laravel, building web applications that deliver value to users. My current focus includes:  
-      - 🚀 Developing a feature-rich e-commerce and other platform using Laravel and Vue.js.  
-      - 📚 Learning more about containerization with Docker to streamline deployment.  
-      - 🌐 Exploring API development and integration for data exchange.  
+I build **web applications, mobile apps, e-commerce platforms, APIs, and custom software solutions**.
 
-🚀 I'm constantly learning and improving my skills in   
-    ## Frontend Technologies
+🌐 **Portfolio:** https://kailashgangai.com.np/
 
-            - HTML5 and CSS3
-            - Bootstrap and Tailwind CSS
-            - JavaScript and jQuery
-            - Vuejs
+---
 
-## Backend Technologies
+## 🛠️ Skills & Services
 
-      - PHP
-      - Laravel Framework
-      - API development 
-      - CI/CD pipeline
-      💡 I'm always open to collaboration and new opportunities.  
+| Area                       | Skills & Services                                            |
+| -------------------------- | ------------------------------------------------------------ |
+| 🌐 **Web Development**     | PHP, Laravel, Node.js, Vue.js, React, JavaScript             |
+| 📱 **Mobile Development**  | React Native, Android                                        |
+| 🛒 **E-Commerce**          | Shopify, Custom E-Commerce, Payment & Order Systems          |
+| 🔌 **APIs & Integrations** | REST APIs, Third-Party APIs, System Integrations             |
+| ⚙️ **Software Solutions**  | Custom Business Applications, Management Systems, Automation |
+| 🚀 **DevOps**              | Git, GitHub, Docker, CI/CD, Server Deployment                |
+| 🗄️ **Database**           | MySQL                                                        |
 
-## 📫 Get in touch
-- LinkedIn: [Kaialash Gangai](https://www.linkedin.com/in/kailash-gangai-51382a177/)
-- Email: [gangaikailash7@gmail.com]
-- WhatsApp : +9779807365078
+---
 
-## 💻 My projects
+## 💻 Let's Build Something
 
-Here are a few projects I'm proud of:
+I'm open to **freelance projects, remote opportunities, collaborations, and custom software development**.
 
-- [Project 1 Myfictions a Blog site](https://www.myfictions.com/): it is a simple Bloging website build in core PHP.  
-https://gyannepali.com/
-## 🌟 GitHub Stats
+🌐 [Portfolio](https://kailashgangai.com.np/)
+💼 [LinkedIn](https://www.linkedin.com/in/kailash-gangai-51382a177/)
+📧 **[gangaikailash7@gmail.com](mailto:gangaikailash7@gmail.com)**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KAILASHGANGAI&show_icons=true)
+---
 
-## 🤝 Let's collaborate
-
-I'm always excited to work on new projects and connect with fellow developers. If you have any ideas or just want to chat, feel free to reach out!
-
-Thanks for visiting my GitHub profile! 😊
+<p align="center">
+  ⭐ <b>Turning ideas into digital products.</b>
+</p>
